@@ -28,7 +28,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <Link to='/'>
-            <h1 className='text-4xl font-bold'>ANSAP</h1>
+            <h1 className='text-4xl font-bold'>SAP</h1>
           </Link>
 
           {/* Menu */}
@@ -53,7 +53,7 @@ const Navbar = () => {
         {/* Menu links */}
         <Link to="/" className='menu-link'>Home</Link>
         <Link to="/projects" className='menu-link'>Projects</Link>
-        <a href="mailto: johndoe@gmail.com" className='menu-link'>Contact</a>
+        <a href="mailto: sapnendrajaiswal2388@gmail.com" className='menu-link'>Contact</a>
       </div>
     </>
   )

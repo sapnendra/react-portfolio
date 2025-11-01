@@ -1,27 +1,39 @@
+import aiPortfolioPng from "../assets/images/ai-portfolio.png";
+import blogWebsitePng from "../assets/images/blog-website.png";
+import typingShooterPng from "../assets/images/typing-shooter.png";
+import practiceProjectPng from "../assets/images/practice-projects.png";
+import githubPagePng from "../assets/images/github-page.png";
+
 const projects = [
   {
     id: 1,
-    name: "Landing Page",
-    image: "https://img.freepik.com/premium-vector/landing-page-template_440410-494.jpg",
-    link: "/project-one"
+    name: "AI Integrated Portfolio",
+    image: aiPortfolioPng,
+    link: "https://sapnendra.onrender.com/"
   },
   {
     id: 2,
-    name: "Ecommerce Website",
-    image: "https://img.freepik.com/premium-psd/flat-design-e-commerce-landing-page-template_23-2151219755.jpg",
-    link: "/project-two"
+    name: "Secured Blog Platform",
+    image: blogWebsitePng,
+    link: "https://auth-system-sapnendra.onrender.com/"
   },
   {
     id: 3,
-    name: "Mobile App UI",
-    image: "https://img.freepik.com/free-vector/travel-booking-app-with-airplane-reservation_23-2148626981.jpg",
-    link: "/project-three"
+    name: "Typing Shooter Game",
+    image: typingShooterPng,
+    link: "https://sapnendra.github.io/typing-shooter/"
   },
   {
     id: 4,
-    name: "Brand Identity",
-    image: "https://img.freepik.com/premium-vector/clean-professional-corporate-brand-identity-mockup-stationery-set_616632-4755.jpg",
-    link: "/project-four"
+    name: "Practice Projects",
+    image: practiceProjectPng,
+    link: "https://sapnendra.github.io/frontend/"
+  },
+  {
+    id: 5,
+    name: "Explore my github account for more",
+    image: githubPagePng,
+    link: "https://github.com/sapnendra"
   }
 ];
 

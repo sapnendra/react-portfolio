@@ -62,7 +62,7 @@ const Work = () => {
                 />
 
                 {/* Project Name */}
-                <span className="absolute top-4 right-4 bg-black text-white text-sm lg:text-lg uppercase leading-[1.4] font-heading px-5 py-1 rounded-full">
+                <span className="absolute top-4 right-4 bg-white text-black border-2 border-black text-sm lg:text-lg uppercase leading-[1.4] font-heading px-5 py-1 rounded-full">
                   {name}
                 </span>
               </a>

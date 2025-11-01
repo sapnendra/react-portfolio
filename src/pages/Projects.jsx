@@ -25,7 +25,7 @@ const Projects = () => {
               </div>
 
               {/* Project Name */}
-              <span className="uppercase leading-[1.4] lg:text-2xl font-heading mt-4">
+              <span className="uppercase leading-[1.4] lg:text-xl font-heading mt-4 border-2 border-black/20 px-4 py-1 rounded-full w-fit">
                 {name}
               </span>
             </a>
