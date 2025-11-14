@@ -27,16 +27,16 @@ This project showcases smooth scroll-based animations, reusable components, and 
 
 Clone the project and install dependencies:
 
-# Clone repository
+### Clone repository
 git clone https://github.com/sapnendra/react-portfolio.git
 
-# Go inside folder
+### Go inside folder
 cd react-portfolio
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start development server
+### Start development server
 npm start
 
 
