@@ -10,7 +10,7 @@ const Footer = () => {
       {/* Footer Top */}
       <footer className="main-container grid md:grid-cols-2 lg:grid-cols-4 gap-10 py-20">
         <Link to="/">
-          <h1 className="text-4xl font-bold md:w-56">SAPNENDRA</h1>
+          <h1 className="text-4xl font-bold md:w-56 w-56">SAPNENDRA</h1>
         </Link>
         <div>
           <h5 className="font-medium mb-5">Services</h5>
